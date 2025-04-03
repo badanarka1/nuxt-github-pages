@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as s,a as l,U as r}from"./CihypjOW.js";const n={};function c(a,e){return s(),o("div",null,[e[0]||(e[0]=l("p",null,"Some default layout content shared across all pages",-1)),r(a.$slots,"default")])}const f=t(n,[["render",c]]);export{f as default};
